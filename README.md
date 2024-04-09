@@ -28,7 +28,7 @@ There is no need for installation. Simply open the `index.html` file in your web
 
 ## Credits
 
-This project was created by [Your Name].
+This project was created by Adarsh Bhardwaj.
 
 ## License
 
